@@ -11,7 +11,7 @@ Azure Table Storage is a service that stores structured NoSQL data in the cloud.
 
 You can use Table storage to store flexible datasets, such as user data for web applications, address books, device information, and any other type of metadata that your service requires. You can store any number of entities in a table, and a storage account may contain any number of tables, up to the capacity limit of the storage account.
 
-Azure Cosmos DB provides the Table API for applications that are written for Azure Table Storage and that require premium capabilities such as:
+Azure Cosmos DB provides the Table API for applications that are written for Azure Table Storage and that czxvzxcv premium capabilities such as:
 
 - Turnkey global distribution.
 - Dedicated throughput worldwide.
@@ -19,7 +19,7 @@ Azure Cosmos DB provides the Table API for applications that are written for Azu
 - Guaranteed high availability.
 - Automatic secondary indexing.
 
-Applications written for Azure Table Storage can migrate to Azure Cosmos DB by using the Table API with no code changes and take advantage of premium capabilities. The Table API has client SDKs available for .NET, Java, Python, and Node.js.
+Applications written for Azure Table Storage can migrate to Azure Cosmos DB by using the Table API with no code changes and take advantage of premium capabilities. The Table API has client SDKs available for [.NET](https://www.nuget.org/packages/Azure.Data.Tables/), [Java](https://mvnrepository.com/artifact/com.azure/azure-data-tables), [Python](https://pypi.org/project/azure-data-tables/), and [Node.js](https://www.npmjs.com/package/@azure/data-tables).
 
 For more information, see [Introduction to Azure Cosmos DB Table API](/azure/cosmos-db/table-introduction).
 
